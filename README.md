@@ -57,13 +57,38 @@ Building and orchestrating AI-powered workflows:
 
 ---
 
+### 🎨 When I'm not coding
+
+🎧 Listening to music · ✏️ Drawing · 🐶 Walks with my dog
+
+---
+
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Carloosolrac&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloosolrac&layout=compact&hide_border=true&theme=tokyonight" />
+  <img src="https://img.shields.io/github/followers/Carloosolrac?label=Followers&style=for-the-badge&color=1f6feb&logo=github" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=8957e5&logo=github&label=Repos&query=public_repos&url=https://api.github.com/users/Carloosolrac" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Carloosolrac&label=Profile%20views&color=2ea043&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Carloosolrac&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carloosolrac&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=1800&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carloosolrac&hide_border=true&theme=tokyonight" />
 </p>
 
 ---
 
-<p align="center"><i>Open to interesting projects and collaborations.</i></p>
+<h3 align="center">🤝 Let's build something together</h3>
+
+<p align="center">
+  <b>Open to interesting projects, collaborations and new challenges.</b>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Available%20for%20hire-2ea043?style=for-the-badge&logo=handshake&logoColor=white" />
+</p>
