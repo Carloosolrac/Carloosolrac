@@ -1,3 +1,4 @@
+<!-- Profile README -->
 <h1 align="center">Hi, I'm Carlos 👋</h1>
 <p align="center">
   <b>Full Stack Developer · AI &amp; Automation</b><br>
